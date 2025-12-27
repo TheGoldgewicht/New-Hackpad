@@ -23,6 +23,13 @@ pcb:
 <img width="1470" height="930" alt="Screenshot 2025-12-25 at 22 26 52" src="https://github.com/user-attachments/assets/aea67b6e-0926-4ccc-8779-e745d048f534" />
 
 case:
-<img width="1470" height="956" alt="Screenshot 2025-12-25 at 22 24 34" src="https://github.com/user-attachments/assets/6658eff8-4aaf-4ed3-8627-6637875294cb" />
+Side: 
+<img width="1469" height="956" alt="Screenshot 2025-12-26 at 23 03 25" src="https://github.com/user-attachments/assets/5eecbf50-da8e-496e-8c93-90b3aa2cb4c3" />
+bottom:
+<img width="1470" height="954" alt="Screenshot 2025-12-26 at 23 03 48" src="https://github.com/user-attachments/assets/f61da4ed-ceb0-4232-911c-356416fcb222" />
+top:
+<img width="1463" height="955" alt="Screenshot 2025-12-26 at 23 03 32" src="https://github.com/user-attachments/assets/733a2528-ec95-46ff-8d78-f6c095e5cafb" />
+
+
 
 
