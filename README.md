@@ -23,15 +23,13 @@ pcb:
 <img width="1470" height="930" alt="Screenshot 2025-12-25 at 22 26 52" src="https://github.com/user-attachments/assets/aea67b6e-0926-4ccc-8779-e745d048f534" />
 
 case:
+<img width="1470" height="956" alt="Screenshot 2025-12-28 at 00 45 33" src="https://github.com/user-attachments/assets/1f610c6a-81e8-4da1-a751-5751d598ffe1" />
+<img width="1470" height="946" alt="Screenshot 2025-12-28 at 00 46 02" src="https://github.com/user-attachments/assets/faae5622-7f8d-4d0c-9470-d57f738abb69" />
+<img width="1470" height="956" alt="Screenshot 2025-12-28 at 00 46 24" src="https://github.com/user-attachments/assets/2e6fce79-b8e2-43ef-a09e-bb010e3f1242" />
+<img width="1470" height="956" alt="Screenshot 2025-12-28 at 00 46 35" src="https://github.com/user-attachments/assets/cbc04403-0b7c-4600-96b7-672364e4d2aa" />
+<img width="1470" height="952" alt="Screenshot 2025-12-28 at 00 46 58" src="https://github.com/user-attachments/assets/b96056b9-86a3-433b-a4fd-11a458c466cd" />
 
-Side: 
-<img width="1469" height="956" alt="Screenshot 2025-12-26 at 23 03 25" src="https://github.com/user-attachments/assets/5eecbf50-da8e-496e-8c93-90b3aa2cb4c3" />
 
-bottom:
-<img width="1470" height="954" alt="Screenshot 2025-12-26 at 23 03 48" src="https://github.com/user-attachments/assets/f61da4ed-ceb0-4232-911c-356416fcb222" />
-
-top:
-<img width="1463" height="955" alt="Screenshot 2025-12-26 at 23 03 32" src="https://github.com/user-attachments/assets/733a2528-ec95-46ff-8d78-f6c095e5cafb" />
 
 
 
