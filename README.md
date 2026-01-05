@@ -22,7 +22,9 @@ Schematic:
 pcb: 
 <img width="1470" height="930" alt="Screenshot 2025-12-25 at 22 26 52" src="https://github.com/user-attachments/assets/aea67b6e-0926-4ccc-8779-e745d048f534" />
 
-case:
+case
+:<img width="1470" height="956" alt="Screenshot 2026-01-05 at 12 42 48" src="https://github.com/user-attachments/assets/9635f577-972d-446b-a416-835dcfe69bea" />
+
 <img width="1470" height="956" alt="Screenshot 2025-12-28 at 00 45 33" src="https://github.com/user-attachments/assets/1f610c6a-81e8-4da1-a751-5751d598ffe1" />
 <img width="1470" height="946" alt="Screenshot 2025-12-28 at 00 46 02" src="https://github.com/user-attachments/assets/faae5622-7f8d-4d0c-9470-d57f738abb69" />
 <img width="1470" height="956" alt="Screenshot 2025-12-28 at 00 46 24" src="https://github.com/user-attachments/assets/2e6fce79-b8e2-43ef-a09e-bb010e3f1242" />
